@@ -1,11 +1,10 @@
 name: LobbyCommand
 main: AleoTV\lobbymain
-version: 1.0
+version: 1.1
 api: [3.0.0,4.0.0]
 author: AleoTV
 
 commands:
-
 discord:
     description: "§9Discord Command"
     usage: "/dc"
@@ -18,6 +17,6 @@ discord:
   author:
     description: "Um den Author kennen zu lernen."
     usage: "/author"
-   developmemt:
+  developmemt:
      description: "Finde heraus wer dein Plugin gecoodet hat"
      usage: "/dev"
