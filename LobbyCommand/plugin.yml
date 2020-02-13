@@ -15,6 +15,6 @@ commands:
     description: "Bringt dich zum CB1."
     usage: "/cb1"
   author:
-    description: "Um den Developer kennen zu lernen."
+    description: "Um den Author kennen zu lernen."
     usage: "/author"
 
