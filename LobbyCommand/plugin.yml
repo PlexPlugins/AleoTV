@@ -1,10 +1,10 @@
 name: LobbyCommand
-main: AleoTV\lobbymain
+main: AleoTV\Main
 version: 1.1
 api: [3.0.0,4.0.0]
 author: AleoTV
-
 commands:
+
 discord:
     description: "§9Discord Command"
     usage: "/dc"
