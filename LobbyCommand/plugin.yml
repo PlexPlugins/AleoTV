@@ -17,6 +17,4 @@ discord:
   author:
     description: "Um den Author kennen zu lernen."
     usage: "/author"
-  developmemt:
-     description: "Finde heraus wer dein Plugin gecoodet hat"
-     usage: "/dev"
+  
