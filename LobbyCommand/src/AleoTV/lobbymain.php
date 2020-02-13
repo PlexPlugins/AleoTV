@@ -9,9 +9,14 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\command\{Command, CommandSender};
 
 
-class main extends PluginBase {
- public $prefix = "LobbyCommand"
-     public function onEnable() {
-          $this->getLogger()->info($this->prefix . "Plugin wurde aktiviert");
-     }
-} 
+class lmain extends PluginBase implements Listener {
+ 
+ public $prefix "LobbyCommand";
+ 
+ public onEnable() 
+ 
+ 
+ 
+ 
+ 
+}
