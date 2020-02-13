@@ -8,15 +8,11 @@ use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\{Command, CommandSender};
 
+class lobbymain extends PluginBase implements Listener {
+ 
+ 
+ 
+} 
 
-class lmain extends PluginBase implements Listener {
- 
- public $prefix "LobbyCommand";
- 
- public onEnable() 
- 
- 
- 
- 
- 
-}
+   
+  
