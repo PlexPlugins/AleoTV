@@ -5,9 +5,16 @@ api: [3.0.0,4.0.0]
 author: AleoTV
 
 commands:
-  Heal:
-   description: "Heile dich mit /heal"
-   permissions: heal.command
- permissions:
-   day.command:
-    default: true
+
+discord:
+    description: "§9Discord Command"
+    usage: "/dc"
+  heal:
+    description: "Heile dich."
+    usage: "/heal"
+  cb1:
+    description: "Bringt dich zum CB1."
+    usage: "/cb1"
+  author:
+    description: "Um den Author kennen zu lernen."
+    usage: "/author"
