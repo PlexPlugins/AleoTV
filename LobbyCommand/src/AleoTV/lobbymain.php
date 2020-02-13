@@ -11,13 +11,10 @@ use pocketmine\command\{Command, CommandSender};
 
 class Main extends PluginBase {
  
- $prefix = "LobbyCommand"
 
-public funtion onEnable(){
- $this->getLogger()->info($this->prefix . "Plugin wurde aktiviert");
+
+
 } 
-
-
 public funtion on command(CommandSender $player, Command $cmd, string $label, array $args):bool {
 
 switch($cmd->get name()){
